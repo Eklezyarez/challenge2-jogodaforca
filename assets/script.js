@@ -54,8 +54,6 @@ function Game() {
   }
 }
 
-
-
 function novoJogo() {
     window.location.reload();
   }  
