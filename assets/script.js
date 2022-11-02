@@ -137,4 +137,3 @@ function Forca() {
     }
   }
 }
-
