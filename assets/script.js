@@ -3,7 +3,6 @@ var palavraSecreta = palavras[Math.floor(Math.random() * palavras.length)];
 var erros = [];
 var palavraCorreta = [];
 
-
 document.addEventListener("keydown", (evento) => {
   let codigo = evento.keyCode; 
   if (setOut(codigo)) {
